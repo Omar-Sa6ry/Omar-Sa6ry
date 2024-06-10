@@ -9,7 +9,7 @@
 - 👋 Hi, I’m Omar Ahmed Sabry
 - 👀 I’m interested in Web Developer
 - 🌱 I’m currently learning Mern Stack
-- ⚡ I’m IT Manager
+<!--   - ⚡ I’m IT Manager  -->
 - 🧑‍💻 I’m studing Computer Science and Artificial Intelligence in Damietta University
 
 <br>
@@ -18,7 +18,7 @@
 <img align="right" src="https://user-images.githubusercontent.com/63050133/156676671-d5b2e362-97d4-4404-9447-dd71ddfea82f.gif" width = 250px/>
 
 <p align="center">
-    <a style="text-decoration: none;" style="text-decoration: none;" href="https://developer.mozilla.org/en-US/docs/Web/HTML">
+     <a style="text-decoration: none;" style="text-decoration: none;" href="https://developer.mozilla.org/en-US/docs/Web/HTML"> 
        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" width="52" alt="html5 logo"  />
     </a>
      <a style="text-decoration: none;" href="https://developer.mozilla.org/en-US/docs/Web/css">
