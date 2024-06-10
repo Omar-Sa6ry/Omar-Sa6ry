@@ -91,7 +91,11 @@
  <a style="text-decoration: none;" href="https://www.instagram.com/omar_sabry__/"> 
    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="48" height="36" alt="instagram logo"  />
  </a>  
-  
+
+   <a style="text-decoration: none;" href="https://x.com/OmarSa6ry?t=lW6_-fDsFxxNVtS2P7RU-Q&s=09"> 
+   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="48" height="36" alt="twitter logo"  />
+ </a>  
+ 
  <a style="text-decoration: none;" href="https://www.linkedin.com/in/omar-ahmed-sabry-754835279?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app/">
         <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="48" height="36" alt="linkedin logo"  />
   </a> 
