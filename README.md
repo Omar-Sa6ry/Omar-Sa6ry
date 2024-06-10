@@ -9,8 +9,9 @@
 - 👋 Hi, I’m Omar Ahmed Sabry
 - 👀 I’m interested in Web Developer
 - 🌱 I’m currently learning Mern Stack
+-  🧑‍💻 I’m studing Computer Science and Artificial Intelligence in Damietta University
+
 <!--   - ⚡ I’m IT Manager  -->
-- 🧑‍💻 I’m studing Computer Science and Artificial Intelligence in Damietta University
 
 <br>
 
