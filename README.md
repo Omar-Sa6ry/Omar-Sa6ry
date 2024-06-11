@@ -61,6 +61,9 @@
       <a style="text-decoration: none;" href="https://www.mongodb.com/">
          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" width="52" alt="mongodb logo"  />
       </a>
+      <a style="text-decoration: none;" href="https://www.postman.com/">
+         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-plain.svg" height="40" width="52" alt="postman logo"  />
+      </a>
       <a style="text-decoration: none;" href="https://www.python.org/">
          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" width="52" alt="python logo"  />
       </a>
