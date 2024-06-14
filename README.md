@@ -37,9 +37,9 @@
        <a style="text-decoration: none;" href="https://devdocs.io/javascript/">
          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="40" width="52" alt="javascript logo"  />
        </a>
-       <a style="text-decoration: none;" href="https://www.typescriptlang.org/">
+<!--        <a style="text-decoration: none;" href="https://www.typescriptlang.org/">
          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" height="40" width="52" alt="typescript logo"  />
-       </a>
+       </a> -->
       <a style="text-decoration: none;" href="https://react.dev/">
          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" width="52" alt="react logo"  />
       </a>
