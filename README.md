@@ -46,9 +46,9 @@
       <a style="text-decoration: none;" href="https://redux.js.org/">
          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="40" width="52" alt="redux logo"  />
       </a>
-      <a style="text-decoration: none;" href="https://nextjs.org/">
+<!--       <a style="text-decoration: none;" href="https://nextjs.org/">
          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" width="52" alt="next logo"  />
-      </a>
+      </a> -->
       <a style="text-decoration: none;" href="https://firebase.google.com/">
          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" width="52" alt="firebase logo"  />
       </a>
@@ -76,9 +76,9 @@
       <a style="text-decoration: none;" href="https://github.com/">
          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" width="52" alt="github logo"  />
        </a>
-      <a style="text-decoration: none;" href="https://git-scm.com/">
+<!--       <a style="text-decoration: none;" href="https://git-scm.com/">
          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" width="52" alt="git logo"  />
-      </a>
+      </a> -->
       <a style="text-decoration: none;" href="https://www.npmjs.com/">
          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="40" width="52" alt="npm logo"  />
       </a>
