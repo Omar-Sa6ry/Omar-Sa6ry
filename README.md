@@ -41,7 +41,7 @@
          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" width="52" alt="mongodb logo"  />
       </a>
       <a style="text-decoration: none;" href="https://www.mongodb.com/">
-         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sql/sql-original.svg" height="40" width="52" alt="Sql logo"  />
+         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" width="52" alt="Sql logo"  />
       </a>
       <a style="text-decoration: none;" href="https://sass-lang.com/documentation/">
        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="40" width="52" alt="sass logo"  />
