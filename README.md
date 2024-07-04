@@ -8,8 +8,8 @@
 
 - 👋 Hi, I’m Omar Ahmed Sabry
 - 👀 I’m interested in Web Developer
-- 🌱 I’m currently learning Mern Stack
--  🧑‍💻 I’m studing Computer Science and Artificial Intelligence in Damietta University
+- 🌱 I’m currently learning Back-End
+-  🧑‍💻 I’m studing Computer Science and Artificial Intelligence in Damietta University (level 3)
 
 <!--   - ⚡ I’m IT Manager  -->
 
@@ -25,6 +25,24 @@
      <a style="text-decoration: none;" href="https://developer.mozilla.org/en-US/docs/Web/css">
        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" width="52" alt="css3 logo"  />
      </a>
+     <a style="text-decoration: none;" href="https://devdocs.io/javascript/">
+         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="40" width="52" alt="javascript logo"  />
+       </a>
+       <a style="text-decoration: none;" href="https://www.typescriptlang.org/">
+         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" height="40" width="52" alt="typescript logo"  />
+       </a>
+       <a style="text-decoration: none;" href="https://nodejs.org/en/">
+         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" width="52" alt="nodejs logo"  />
+      </a>
+      <a style="text-decoration: none;" href="https://expressjs.com/">
+         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" width="52" alt="express logo"  />
+      </a>
+      <a style="text-decoration: none;" href="https://www.mongodb.com/">
+         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" width="52" alt="mongodb logo"  />
+      </a>
+      <a style="text-decoration: none;" href="https://www.mongodb.com/">
+         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sql/sql-original.svg" height="40" width="52" alt="Sql logo"  />
+      </a>
       <a style="text-decoration: none;" href="https://sass-lang.com/documentation/">
        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="40" width="52" alt="sass logo"  />
       </a>
@@ -34,32 +52,14 @@
        <a style="text-decoration: none;" href="https://v2.tailwindcss.com/">
          <img src="https://codekitapp.com/images/help/free-tailwind-icon@2x.png" height="40" width="52" alt="tailwindcss logo"  />
        </a>
-       <a style="text-decoration: none;" href="https://devdocs.io/javascript/">
-         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="40" width="52" alt="javascript logo"  />
-       </a>
-<!--        <a style="text-decoration: none;" href="https://www.typescriptlang.org/">
-         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" height="40" width="52" alt="typescript logo"  />
-       </a> -->
       <a style="text-decoration: none;" href="https://react.dev/">
          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" width="52" alt="react logo"  />
       </a>
       <a style="text-decoration: none;" href="https://redux.js.org/">
          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="40" width="52" alt="redux logo"  />
       </a>
-<!--       <a style="text-decoration: none;" href="https://nextjs.org/">
-         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" width="52" alt="next logo"  />
-      </a> -->
       <a style="text-decoration: none;" href="https://firebase.google.com/">
          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" width="52" alt="firebase logo"  />
-      </a>
-      <a style="text-decoration: none;" href="https://nodejs.org/en/">
-         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" width="52" alt="nodejs logo"  />
-      </a>
-      <a style="text-decoration: none;" href="https://expressjs.com/">
-         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" width="52" alt="express logo"  />
-      </a>
-      <a style="text-decoration: none;" href="https://www.mongodb.com/">
-         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" width="52" alt="mongodb logo"  />
       </a>
       <a style="text-decoration: none;" href="https://www.postman.com/">
          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-plain.svg" height="40" width="52" alt="postman logo"  />
@@ -76,9 +76,9 @@
       <a style="text-decoration: none;" href="https://github.com/">
          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" width="52" alt="github logo"  />
        </a>
-<!--       <a style="text-decoration: none;" href="https://git-scm.com/">
+      <a style="text-decoration: none;" href="https://git-scm.com/">
          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" width="52" alt="git logo"  />
-      </a> -->
+      </a>
       <a style="text-decoration: none;" href="https://www.npmjs.com/">
          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="40" width="52" alt="npm logo"  />
       </a>
