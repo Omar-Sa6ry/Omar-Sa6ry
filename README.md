@@ -10,7 +10,7 @@
 - 👀 I’m interested in Web Developer
 - 🌱 I’m currently learning Back-End (Nestjs)
 -  🧑‍💻 I’m studing Computer Science and Artificial Intelligence in Damietta University (level 3)
--   - ⚡ I’m IT Manager 
+-  ⚡ I’m IT Manager 
 
 <br>
 
