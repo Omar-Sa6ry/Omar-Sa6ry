@@ -8,10 +8,9 @@
 
 - 👋 Hi, I’m Omar Ahmed Sabry
 - 👀 I’m interested in Web Developer
-- 🌱 I’m currently learning Back-End
+- 🌱 I’m currently learning Back-End (Nestjs)
 -  🧑‍💻 I’m studing Computer Science and Artificial Intelligence in Damietta University (level 3)
-
-<!--   - ⚡ I’m IT Manager  -->
+-   - ⚡ I’m IT Manager 
 
 <br>
 
@@ -37,11 +36,17 @@
       <a style="text-decoration: none;" href="https://expressjs.com/">
          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" width="52" alt="express logo"  />
       </a>
+      <a style="text-decoration: none;" href="https://expressjs.com/">
+         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" height="40" width="52" alt="nestjs logo"  />
+      </a>
       <a style="text-decoration: none;" href="https://www.mongodb.com/">
          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" width="52" alt="mongodb logo"  />
       </a>
       <a style="text-decoration: none;" href="https://www.mongodb.com/">
-         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" width="52" alt="Sql logo"  />
+         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" width="52" alt="postgresql logo"  />
+      </a>
+        <a style="text-decoration: none;" href="https://www.mongodb.com/">
+         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40" width="52" alt="sqlite logo"  />
       </a>
       <a style="text-decoration: none;" href="https://sass-lang.com/documentation/">
        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="40" width="52" alt="sass logo"  />
