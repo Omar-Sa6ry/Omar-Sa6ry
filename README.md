@@ -14,6 +14,37 @@
 
 <br>
 
+# 📋 Programming Languages
+
+<img align="left" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
+<img align="left" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"/>
+<img align="left" src="https://img.shields.io/badge/python%23-%23239120.svg?style=for-the-badge&logo=php&logoColor=white"/>
+
+<br>
+<br/>
+<br/>
+<br/>
+
+# 📚 Frameworks and Libraries
+<img align="left" src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"/>
+<img align="left" src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB"/>
+<img align="left" src="https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white"/>
+<img align="left" src="https://img.shields.io/badge/react.js-6DA55F?style=for-the-badge&logo=react.js&logoColor=white"/>
+
+<br/>
+<br/>
+<br/>
+
+# 💾 Databases and ORM
+<img align="left" src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"/>
+<img align="left" src="https://img.shields.io/badge/mysql-%23316192.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img align="left" src="https://img.shields.io/badge/sql-%23316192.svg?style=for-the-badge&logo=sql&logoColor=white"/>
+
+<br/>
+<br/>
+<br/>
+
+
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
 <img align="right" src="https://user-images.githubusercontent.com/63050133/156676671-d5b2e362-97d4-4404-9447-dd71ddfea82f.gif" width = 250px/>
 
@@ -55,41 +86,6 @@
       </a>
 </div>
 
-<br>
-<br/>
-<br/>
-<br/>
-
-# 📋 Programming Languages
-
-<img align="left" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
-<img align="left" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"/>
-<img align="left" src="https://img.shields.io/badge/python%23-%23239120.svg?style=for-the-badge&logo=php&logoColor=white"/>
-
-<br>
-<br/>
-<br/>
-<br/>
-
-# 📚 Frameworks and Libraries
-<img align="left" src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"/>
-<img align="left" src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB"/>
-<img align="left" src="https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white"/>
-<img align="left" src="https://img.shields.io/badge/react.js-6DA55F?style=for-the-badge&logo=react.js&logoColor=white"/>
-
-<br/>
-<br/>
-<br/>
-
-# 💾 Databases and ORM
-<img align="left" src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"/>
-<img align="left" src="https://img.shields.io/badge/mysql-%23316192.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
-<img align="left" src="https://img.shields.io/badge/sql-%23316192.svg?style=for-the-badge&logo=sql&logoColor=white"/>
-
-<br/>
-<br/>
-<br/>
-
 <b> Let's Connect</b>
 <div align="center">
      <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="55">
@@ -114,12 +110,26 @@
   </a>
 </div>
 
+<br>
+<br/>
+<br/>
+<br/>
+
+
+
+
+
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"><b> Status Github</b>
+
+  <img align="center" width="47%" height="190" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Omar-Sa6ry&layout=compact"/>
+<br>
+<br/>
+<br/>
+<br/>
 
 <div align="center">
  <a style="text-decoration: none;" href="https://github.com/Omar-Sa6ry">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Omar-Sa6ry&count_private=true&show_icons=true&theme=gruvbox&hide_border=true&custom_title=Bharat%20V%27s%20Github%20Stats" alt="omar's GitHub Stats" />
-  <img align="left" width="47%" height="190" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Omar-Sa6ry&layout=compact"/>
 </a>
 <br><br>
 <a style="text-decoration: none;" href="https://github.com/Omar-Sa6ry">
