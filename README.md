@@ -124,7 +124,7 @@
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"><b> Status Github</b>
 
 <div align="center">
-     <br>
+<br>
 <br/>
 <br/>
 <br/>
@@ -133,10 +133,18 @@
  <a style="text-decoration: none;" href="https://github.com/Omar-Sa6ry">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Omar-Sa6ry&count_private=true&show_icons=true&theme=gruvbox&hide_border=true&custom_title=Bharat%20V%27s%20Github%20Stats" alt="omar's GitHub Stats" />
 </a>
+<br>
+<br/>
+<br/>
+<br/>
 <br><br>
 <a style="text-decoration: none;" href="https://github.com/Omar-Sa6ry">
   <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=Omar-Sa6ry&theme=gruvbox" alt="omar's GitHub Streak Stats"/>
 </a>
+<br>
+<br/>
+<br/>
+<br/>
 <br><br>
 <a style="text-decoration: none;" href="https://github.com/Omar-Sa6ry">
   <img align="left" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Omar-Sa6ry&theme=gruvbox&hide_border=true)](https://github.com/Omar-Sa6ry" alt="omar's GitHub Stats Graph"/>
