@@ -86,8 +86,9 @@
 <img align="left" src="https://img.shields.io/badge/mysql-%23316192.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
 <img align="left" src="https://img.shields.io/badge/sql-%23316192.svg?style=for-the-badge&logo=sql&logoColor=white"/>
 
-## <b> Let's Connect</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="55">
 <div align="center">
+## <b> Let's Connect</b>
+     <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="55">
   <a style="text-decoration: none;" href="https://www.facebook.com/omarahmed.sabry.73?mibextid=ZbWKwL">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="48" height="36" alt="facebook logo"  />
   </a>
@@ -123,7 +124,8 @@
 <a style="text-decoration: none;" href="https://github.com/Omar-Sa6ry">
   <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Omar-Sa6ry&theme=gruvbox&hide_border=true)](https://github.com/Omar-Sa6ry" alt="omar's GitHub Stats Graph"/>
 </a>
-<img align="left" width="47%" height="190" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Omar-Sa6ry&layout=compact"/>
+ <br><br>
+  <img align="left" width="47%" height="190" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Omar-Sa6ry&layout=compact"/>
 </div>
 
 ##
