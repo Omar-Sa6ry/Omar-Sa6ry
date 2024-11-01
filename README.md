@@ -37,7 +37,7 @@
 
 # 💾 Databases and ORM
 <img align="left" src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"/>
-<img align="left" src="https://img.shields.io/badge/mysql-%23316192.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img align="left" src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
 <img align="left" src="https://img.shields.io/badge/sql-%23316192.svg?style=for-the-badge&logo=sql&logoColor=white"/>
 
 <br/>
@@ -123,12 +123,6 @@
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"><b> Status Github</b>
 
-  <img align="center" width="47%" height="190" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Omar-Sa6ry&layout=compact"/>
-<br>
-<br/>
-<br/>
-<br/>
-
 <div align="center">
  <a style="text-decoration: none;" href="https://github.com/Omar-Sa6ry">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Omar-Sa6ry&count_private=true&show_icons=true&theme=gruvbox&hide_border=true&custom_title=Bharat%20V%27s%20Github%20Stats" alt="omar's GitHub Stats" />
@@ -141,6 +135,12 @@
 <a style="text-decoration: none;" href="https://github.com/Omar-Sa6ry">
   <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Omar-Sa6ry&theme=gruvbox&hide_border=true)](https://github.com/Omar-Sa6ry" alt="omar's GitHub Stats Graph"/>
 </a>
+<br>
+<br/>
+<br/>
+<br/>
+ <img align="center" width="47%" height="190" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Omar-Sa6ry&layout=compact"/>
+
 </div>
 
 ##
