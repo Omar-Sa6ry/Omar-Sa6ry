@@ -94,18 +94,17 @@
 <img align="left" src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB"/>
 <img align="left" src="https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white"/>
 <img align="left" src="https://img.shields.io/badge/react.js-6DA55F?style=for-the-badge&logo=react.js&logoColor=white"/>
-<img align="left" src="https://img.shields.io/badge/react-native-6DA55F?style=for-the-badge&logo=react.js&logoColor=white"/>
-<img align="left" src="https://img.shields.io/badge/next.js-black?style=for-the-badge&logo=next.js&badgeColor=010101"/><br/><br/>
-## <b> Let's Connect</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="55">
+
 <br>
+<br/>
+<br/>
+<br/>
 
 # 📋 Programming Languages
 
 <img align="left" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
 <img align="left" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"/>
-<img align="left" src="https://img.shields.io/badge/php%23-%23239120.svg?style=for-the-badge&logo=php&logoColor=white"/>
-<img align="left" src="https://img.shields.io/badge/vb%23-%23239120.svg?style=for-the-badge&logo=vb&logoColor=white"/>
-
+<img align="left" src="https://img.shields.io/badge/python%23-%23239120.svg?style=for-the-badge&logo=php&logoColor=white"/>
 
 <br/>
 <br/>
@@ -116,6 +115,7 @@
 <img align="left" src="https://img.shields.io/badge/mysql-%23316192.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
 <img align="left" src="https://img.shields.io/badge/sql-%23316192.svg?style=for-the-badge&logo=sql&logoColor=white"/>
 
+## <b> Let's Connect</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="55">
 <div align="center">
   <a style="text-decoration: none;" href="https://www.facebook.com/omarahmed.sabry.73?mibextid=ZbWKwL">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="48" height="36" alt="facebook logo"  />
