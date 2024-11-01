@@ -90,8 +90,8 @@
 <br/>
 <br/>
 
+<b> Let's Connect</b>
 <div align="center">
-## <b> Let's Connect</b>
      <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="55">
   <a style="text-decoration: none;" href="https://www.facebook.com/omarahmed.sabry.73?mibextid=ZbWKwL">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="48" height="36" alt="facebook logo"  />
