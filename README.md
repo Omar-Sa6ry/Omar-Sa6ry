@@ -24,32 +24,7 @@
      <a style="text-decoration: none;" href="https://developer.mozilla.org/en-US/docs/Web/css">
        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" width="52" alt="css3 logo"  />
      </a>
-     <a style="text-decoration: none;" href="https://devdocs.io/javascript/">
-         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="40" width="52" alt="javascript logo"  />
-       </a>
-       <a style="text-decoration: none;" href="https://www.typescriptlang.org/">
-         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" height="40" width="52" alt="typescript logo"  />
-       </a>
-       <a style="text-decoration: none;" href="https://nodejs.org/en/">
-         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" width="52" alt="nodejs logo"  />
-      </a>
-      <a style="text-decoration: none;" href="https://expressjs.com/">
-         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" width="52" alt="express logo"  />
-      </a>
-      <a style="text-decoration: none;" href="https://expressjs.com/">
-         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" height="40" width="52" alt="nestjs logo"  />
-      </a>
-      <a style="text-decoration: none;" href="https://www.mongodb.com/">
-         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" width="52" alt="mongodb logo"  />
-      </a>
-      <a style="text-decoration: none;" href="https://www.mongodb.com/">
-         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" width="52" alt="postgresql logo"  />
-      </a>
-        <a style="text-decoration: none;" href="https://www.mongodb.com/">
-         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40" width="52" alt="sqlite logo"  />
-      </a>
-      <a style="text-decoration: none;" href="https://sass-lang.com/documentation/">
-       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="40" width="52" alt="sass logo"  />
+     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="40" width="52" alt="sass logo"  />
       </a>
       <a style="text-decoration: none;" href="https://getbootstrap.com/">
          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" width="52" alt="bootstrap logo"  />
@@ -57,20 +32,11 @@
        <a style="text-decoration: none;" href="https://v2.tailwindcss.com/">
          <img src="https://codekitapp.com/images/help/free-tailwind-icon@2x.png" height="40" width="52" alt="tailwindcss logo"  />
        </a>
-      <a style="text-decoration: none;" href="https://react.dev/">
-         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" width="52" alt="react logo"  />
-      </a>
-      <a style="text-decoration: none;" href="https://redux.js.org/">
+     <a style="text-decoration: none;" href="https://redux.js.org/">
          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="40" width="52" alt="redux logo"  />
       </a>
       <a style="text-decoration: none;" href="https://firebase.google.com/">
          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" width="52" alt="firebase logo"  />
-      </a>
-      <a style="text-decoration: none;" href="https://www.postman.com/">
-         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-plain.svg" height="40" width="52" alt="postman logo"  />
-      </a>
-      <a style="text-decoration: none;" href="https://www.python.org/">
-         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" width="52" alt="python logo"  />
       </a>
       <a style="text-decoration: none;" href="https://code.visualstudio.com/">
          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" width="52" alt="vscode logo"  />
@@ -88,6 +54,11 @@
          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="40" width="52" alt="npm logo"  />
       </a>
 </div>
+
+<br>
+<br/>
+<br/>
+<br/>
 
 # 📚 Frameworks and Libraries
 <img align="left" src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"/>
@@ -151,8 +122,8 @@
 <br><br>
 <a style="text-decoration: none;" href="https://github.com/Omar-Sa6ry">
   <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Omar-Sa6ry&theme=gruvbox&hide_border=true)](https://github.com/Omar-Sa6ry" alt="omar's GitHub Stats Graph"/>
-  <img align="left" width="47%" height="190" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Omar-Sa6ry&layout=compact"/>
 </a>
+<img align="left" width="47%" height="190" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Omar-Sa6ry&layout=compact"/>
 </div>
 
 ##
