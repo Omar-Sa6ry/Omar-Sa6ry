@@ -86,6 +86,10 @@
 <img align="left" src="https://img.shields.io/badge/mysql-%23316192.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
 <img align="left" src="https://img.shields.io/badge/sql-%23316192.svg?style=for-the-badge&logo=sql&logoColor=white"/>
 
+<br/>
+<br/>
+<br/>
+
 <div align="center">
 ## <b> Let's Connect</b>
      <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="55">
