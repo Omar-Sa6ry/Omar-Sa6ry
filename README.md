@@ -136,9 +136,6 @@
 <br/>
 <br/>
 
-<a style="text-decoration: none;" width="47%" href="https://github.com/Omar-Sa6ry">
-  <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=Omar-Sa6ry&theme=gruvbox" alt="omar's GitHub Streak Stats"/>
-<a style="text-decoration: none;" width="47%" href="https://github.com/Omar-Sa6ry">
-  <img align="left" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Omar-Sa6ry&theme=gruvbox&hide_border=true)](https://github.com/Omar-Sa6ry" alt="omar's GitHub Stats Graph"/>
-</a>
+  <img align="left" width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=Omar-Sa6ry&theme=gruvbox" alt="omar's GitHub Streak Stats"/>
+  <img align="left" width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Omar-Sa6ry&theme=gruvbox&hide_border=true)](https://github.com/Omar-Sa6ry" alt="omar's GitHub Stats Graph"/>
 </div>
