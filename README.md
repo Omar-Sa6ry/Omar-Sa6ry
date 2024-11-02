@@ -132,14 +132,7 @@
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=omar-sa6ry&show_icons=true&theme=gruvbox"/>
 <img align="left" width="47%" height="190" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omar-sa6ry&layout=compact"/>
 <br>
-<br/>
-<br/>
-<br/>
 
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Omar-Sa6ry&theme=gruvbox" alt="omar's GitHub Streak Stats"/>
- <br/>
-<br/>
-<br/>
 <br/>
 <br/>
 <br/>
