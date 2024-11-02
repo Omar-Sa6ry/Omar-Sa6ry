@@ -39,6 +39,7 @@
 <img align="left" src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"/>
 <img align="left" src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
 <img align="left" src="https://img.shields.io/badge/sql-%23316192.svg?style=for-the-badge&logo=sql&logoColor=white"/>
+<img align="left" src="https://img.shields.io/badge/sqllte-%23316192.svg?style=for-the-badge&logo=sql&logoColor=white"/>
 
 <br/>
 <br/>
