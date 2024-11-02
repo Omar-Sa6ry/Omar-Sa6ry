@@ -120,6 +120,7 @@
 <br/>
 
 
+/*
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"><b> Status Github</b>
 
@@ -150,5 +151,5 @@
   <img align="left" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Omar-Sa6ry&theme=gruvbox&hide_border=true)](https://github.com/Omar-Sa6ry" alt="omar's GitHub Stats Graph"/>
 </a>
 </div>
-
+*/
 ##
