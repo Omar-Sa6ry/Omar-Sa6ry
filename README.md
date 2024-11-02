@@ -129,10 +129,8 @@
 <br/>
 <br/>
      
- <img align="left" width="47%" height="190" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Omar-Sa6ry&layout=compact"/>
- <a style="text-decoration: none;" href="https://github.com/Omar-Sa6ry">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Omar-Sa6ry&count_private=true&show_icons=true&theme=gruvbox&hide_border=true&custom_title=Bharat%20V%27s%20Github%20Stats" alt="omar's GitHub Stats" />
-</a>
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=omar-sa6ry&show_icons=true&theme=gruvbox"/>
+<img align="left" width="47%" height="190" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omar-sa6ry&layout=compact"/>
 <br>
 <br/>
 <br/>
