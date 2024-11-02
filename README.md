@@ -38,8 +38,8 @@
 # 💾 Databases and ORM
 <img align="left" src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"/>
 <img align="left" src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img align="left" src="https://img.shields.io/badge/sqlite-%23316192.svg?style=for-the-badge&logo=sql&logoColor=white"/>
 <img align="left" src="https://img.shields.io/badge/sql-%23316192.svg?style=for-the-badge&logo=sql&logoColor=white"/>
-<img align="left" src="https://img.shields.io/badge/sqllte-%23316192.svg?style=for-the-badge&logo=sql&logoColor=white"/>
 
 <br/>
 <br/>
@@ -121,8 +121,6 @@
 <br/>
 
 
-/*
-
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"><b> Status Github</b>
 
 <div align="center">
@@ -152,5 +150,3 @@
   <img align="left" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Omar-Sa6ry&theme=gruvbox&hide_border=true)](https://github.com/Omar-Sa6ry" alt="omar's GitHub Stats Graph"/>
 </a>
 </div>
-*/
-##
