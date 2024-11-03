@@ -85,6 +85,9 @@
       <a style="text-decoration: none;" href="https://www.npmjs.com/">
          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="40" width="52" alt="npm logo"  />
       </a>
+       <a style="text-decoration: none;" href="https://www.stripe.com/">
+         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/stripe/stripe-original-wordmark.svg" height="40" width="52" alt="stripe logo"  />
+      </a>
 </div>
 
 <b> Let's Connect</b>
