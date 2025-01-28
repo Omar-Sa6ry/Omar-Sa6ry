@@ -102,9 +102,6 @@ About me
 <br/>
 <br/>
 <br/>
-<br>
-<br/>
-<br/>
 <br/>
 
 
