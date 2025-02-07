@@ -39,7 +39,7 @@ About me
 # 💾 Databases and ORM
 <img align="left" src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"/>
 <img align="left" src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
-<img align="left" src="https://img.shields.io/badge/redis%23316192.svg?style=for-the-badge&logo=sqlite&logoColor=white"/>
+<img align="left" src="https://img.shields.io/badge/redis-%23316192.svg?style=for-the-badge&logo=redis&logoColor=white"/>
 <img align="left" src="https://img.shields.io/badge/sqlite-%23316192.svg?style=for-the-badge&logo=sqlite&logoColor=white"/>
 
 <br/>
@@ -59,6 +59,7 @@ About me
          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="52" alt="js logo"  />
          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" width="52" alt="ts logo"  />
          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" width="52" alt="nodejs logo"  />
+         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" width="52" alt="expressjs logo"  />
          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" height="40" width="52" alt="nestjs logo"  />
          <img src="https://img.icons8.com/?size=100&id=KRA1PoZgRrca&format=png&color=000000" height="40" width="52" alt="graphql logo"  />
          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" width="52" alt="mongodb logo"  />
