@@ -40,7 +40,7 @@ About me
 <img align="left" src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"/>
 <img align="left" src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgres&logoColor=white"/>
 <img align="left" src="https://img.shields.io/badge/redis-%23DF0000.svg?style=for-the-badge&logo=redis&logoColor=white"/>
-<img align="left" src="https://img.shields.io/badge/sqlite-%23316192.svg?style=for-the-badge&logo=redis&logoColor=white"/>
+<img align="left" src="https://img.shields.io/badge/sqlite-%23316192.svg?style=for-the-badge&logo=sqlite&logoColor=white"/>
 
 <br/>
 <br/>
