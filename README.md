@@ -1,7 +1,17 @@
 <h1 align="top">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"> ! My name is Omar ..</h1>
 
-###
-About me
+  <p align="center"> <!-- Google Me -->
+    <a href="https://www.google.com.eg/search?q=ahmed+hemeda">
+      <img src="https://readme-typing-svg.herokuapp.com/?lines=Visit%20my%20LinkedIn%20Profile;I%20Post%20Insightful%20Content;Follow%20to%20get%20New%20Updates&font=Bold%20Code&center=true&color=30D050&pause=1750&size=21">
+    </a>
+  </p>
+
+ <!--   <p align="center"> 
+     <img src="https://komarev.com/ghpvc/?username=Omar-Sa6ry&color=4010B0" height="35"/>
+  </p> -->
+  <br/>
+  
+## About me
 
 <br>
 
@@ -14,43 +24,6 @@ About me
 -  ⚡ Personal website   <a style="text-decoration: none;" href="https://omarsabry.netlify.app/">Omar Sabry </a>
 
 
-<br>
-
-## 📋 Programming Languages
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-
-<br/>
-
-## 📚 Frameworks
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![Expressjs](https://img.shields.io/badge/Express.js-E0234E?style=flat&logo=expressjs&logoColor=white)
-
-<br/>
-
-## ⚙️ **Database & ORM**
-![TypeORM](https://img.shields.io/badge/TypeORM-E83524?style=flat&logo=typeorm&logoColor=white)
-![sequelizeORM](https://img.shields.io/badge/sequelize-E83524?style=flat&logo=sequelize&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
-
-<br/>
-
-## 🔨 **Software & Tools**
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
-![Obsidian](https://img.shields.io/badge/Obsidian-7C3AED?style=flat&logo=obsidian&logoColor=white)
-![Jest](https://img.shields.io/badge/Jest-C21325?style=flat&logo=jest&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-FF6D00?style=flat&logo=json&logoColor=white)
-![Graphql](https://img.shields.io/badge/Graphql-7C3AED?style=flat&logo=Graphql&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=white)
-![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=flat&logo=socketdotio&logoColor=white)
 
 <br/>
 
@@ -85,8 +58,49 @@ About me
     </div>
 
  <br/>
+ <br/> 
  <br/>
- 
+ <br/>
+
+## 📋 Programming Languages
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+
+<br/>
+
+## 📚 Frameworks
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Expressjs](https://img.shields.io/badge/Express.js-E0234E?style=flat&logo=expressjs&logoColor=white)
+
+<br/>
+
+## ⚙️ **Database & ORM**
+![TypeORM](https://img.shields.io/badge/TypeORM-E83524?style=flat&logo=typeorm&logoColor=white)
+![sequelizeORM](https://img.shields.io/badge/sequelize-E83524?style=flat&logo=sequelize&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
+
+<br/>
+
+## 🔨 **Software & Tools**
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+![Obsidian](https://img.shields.io/badge/Obsidian-7C3AED?style=flat&logo=obsidian&logoColor=white)
+![Git](https://img.shields.io/badge/git-E0234E?style=flat&logo=git&logoColor=white)
+![Github](https://img.shields.io/badge/Github-010101?style=flat&logo=Github&logoColor=white)
+![Jest](https://img.shields.io/badge/Jest-C21325?style=flat&logo=jest&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-FF6D00?style=flat&logo=json&logoColor=white)
+![Graphql](https://img.shields.io/badge/Graphql-7C3AED?style=flat&logo=Graphql&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=white)
+![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=flat&logo=socketdotio&logoColor=white)
+
+ <br/>
 ## 📫 Let's Connect!
 <div align="center">
      <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="55">
@@ -108,7 +122,7 @@ About me
    
   <a style="text-decoration: none;" href="mailto:omarahmedsabry05@gmail.com">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="48" height="36" alt="gmail logo"  />
-  </a>
+  </a>  
 </div>
 
 <br>
