@@ -101,7 +101,7 @@
 ![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=flat&logo=socketdotio&logoColor=white)
 
  <br/>
-## 📫 Let's Connect!
+## 📫 **Let's Connect!**
 <div align="center">
      <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="55">
   <a style="text-decoration: none;" href="https://www.facebook.com/omarahmed.sabry.73?mibextid=ZbWKwL">
