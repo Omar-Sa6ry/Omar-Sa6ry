@@ -19,8 +19,7 @@
 - 👋 Hi, I’m Omar Ahmed Sabry
 - 👀 I’m interested in Web Developer
 - 🌱 I’m currently learning Back-End (Nestjs)
--  🧑‍💻 I’m studing Computer Science and Artificial Intelligence in Damietta University (level 3)
--  🌐 I’m IT Manager
+-  🧑‍💻 I’m studing Computer Science and Artificial Intelligence in Damietta University (level 3 => IT) 
 -  ⚡ Personal website   <a style="text-decoration: none;" href="https://omarsabry.netlify.app/">Omar Sabry </a>
 
 
@@ -78,14 +77,15 @@
  <br/>
 📫 Let's Connect!
 <div align="center">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="48" height="36" alt="facebook logo"  />
+  <a style="text-decoration: none;" href="https://www.facebook.com/profile.php?id=61575976221206&rdid=v1teMYSMqtnhGb2Y&share_url=https%3A%2F%2Fwww.facebook.com%2Fshare%2F194NoWYhsR%2F#"> 
+   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="48" height="36" alt="facebook logo"  />
   </a>
   
  <a style="text-decoration: none;" href="https://www.instagram.com/omar_sabry__/"> 
    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="48" height="36" alt="instagram logo"  />
  </a>  
 
-   <a style="text-decoration: none;" href="https://x.com/OmarSa6ry?t=lW6_-fDsFxxNVtS2P7RU-Q&s=09"> 
+   <a style="text-decoration: none;" href="https://www.instagram.com/omar_sabry____________________/"> 
    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="48" height="36" alt="twitter logo"  />
  </a>  
  
