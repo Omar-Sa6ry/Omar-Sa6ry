@@ -37,10 +37,17 @@
 
 <br/>
 
-### ⚙️ **Backend & ORM**
+### ⚙️ **Backend**
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
 ![Express](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
+![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=flat&logo=socketdotio&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=white)
+
+<br/>
+
+### 🗃️ **Database & ORMs**
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
@@ -48,36 +55,39 @@
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
 ![Mongoose](https://img.shields.io/badge/Mongoose-DD0031?style=flat&logo=mongoose&logoColor=white)
 ![TypeORM](https://img.shields.io/badge/TypeORM-E83524?style=flat&logo=typeorm&logoColor=white)
-![sequelizeORM](https://img.shields.io/badge/sequelize-E83524?style=flat&logo=sequelize&logoColor=white)
+![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=flat&logo=sequelize&logoColor=white)
 ![SQL Injection Safe](https://img.shields.io/badge/SQL_Injection-Safe-success?style=flat&logo=datadog&logoColor=white)
-![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=flat&logo=socketdotio&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=white)
+![ACID](https://img.shields.io/badge/ACID_Compliance-007396?style=flat&logo=databricks&logoColor=white)
 
+<br/>
 
- <br/>
- 
+### 🚀 **DevOps & Deployment**
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat&logo=nginx&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Queue](https://img.shields.io/badge/Queue_Management-4B32C3?style=flat&logo=rabbitmq&logoColor=white)
+![PubSub](https://img.shields.io/badge/PubSub-336791?style=flat&logo=pubg&logoColor=white)
+
+<br/>
+
 ### 🔨 **Software & Tools**
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 ![Obsidian](https://img.shields.io/badge/Obsidian-7C3AED?style=flat&logo=obsidian&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
 ![SOLID](https://img.shields.io/badge/SOLID_Principles-FF6C37?style=flat&logo=codeforces&logoColor=white)
 ![Design Patterns](https://img.shields.io/badge/Design_Patterns-B366F6?style=flat&logo=abstract&logoColor=white)
-![ACID](https://img.shields.io/badge/ACID_Compliance-007396?style=flat&logo=databricks&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+
+<br/>
+
+### 🔄 **API Technologies**
 ![REST API](https://img.shields.io/badge/REST_API-FF6D00?style=flat&logo=json&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat&logo=graphql&logoColor=white)
 ![Dataloader (n+1)](https://img.shields.io/badge/Dataloader_(n%2B1)-0088CC?style=flat&logo=graphql&logoColor=white)
 ![GraphQL Playground](https://img.shields.io/badge/GraphQL_Playground-1D1D1D?style=flat&logo=graphql&logoColor=white)
-![PubSub](https://img.shields.io/badge/PubSub-336791?style=flat&logo=pubg&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=white)
 ![WebSocket](https://img.shields.io/badge/WebSocket-010101?style=flat&logo=socketdotio&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Queue](https://img.shields.io/badge/Queue_Management-4B32C3?style=flat&logo=rabbitmq&logoColor=white)
 
-
-
- <br/>
+<br/>
 
 ### 🥷 **Frontend & Mobile (Basics)**
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
@@ -85,15 +95,12 @@
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
 ![Sass](https://img.shields.io/badge/Sass-CC6699?style=flat&logo=sass&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat&logo=react&logoColor=61DAFB)
 ![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat&logo=redux&logoColor=white)
 ![Redux Toolkit](https://img.shields.io/badge/Redux_Toolkit-764ABC?style=flat&logo=redux&logoColor=white)
 ![Framer Motion](https://img.shields.io/badge/Framer-0055FF?style=flat&logo=framer&logoColor=white)
-
 
  <br/>
  
