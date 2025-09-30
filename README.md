@@ -18,7 +18,7 @@
 - 👋 Hi, I’m Omar Ahmed Sabry
 - 👀 I’m interested in Web Developer
 - 🌱 I’m currently learning Back-End (Nestjs)
-- 🧑‍💻 I’m studing Computer Science and Artificial Intelligence in Damietta University (level 3 => IT) 
+- 🧑‍💻 I’m studing Computer Science and Artificial Intelligence in Damietta University (level 4 => IT) 
 - ⚡ Personal website   <a style="text-decoration: none;" href="https://omarsabry.netlify.app/">Omar Sabry </a>
 
 
