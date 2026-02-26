@@ -1,13 +1,12 @@
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25">! I'm Omar Sabry</h1>
-<h3 align="center">Back-End Developer specializing in Node.js & NestJS</h3>
+<h3 align="center">Back-End Developer specializing in Node.js, NestJS & Go</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/omarsa6ry/">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Bold+Code&size=21&duration=1750&pause=1750&color=30D050&center=true&vCenter=true&width=700&lines=Back-End+Developer+with+2%2B+years+experience;Building+scalable+APIs+%26+microservices;NestJS+%7C+Node.js+%7C+PostgreSQL+%7C+Docker;Expert+in+REST%2FGraphQL+%26+Real-time+Systems" alt="Typing SVG">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Bold+Code&size=21&duration=1750&pause=1750&color=30D050&center=true&vCenter=true&width=700&lines=Back-End+Developer+with+2%2B+years+experience;Building+scalable+APIs+%26+microservices;NestJS+%7C+Node.js+%7C+Go+%7C+PostgreSQL;Expert+in+REST%2FGraphQL+%26+Real-time+Systems" alt="Typing SVG">
   </a>
 </p>
 
-<br/>
 <br/>
 
 ## 👨‍💼 **About Me**
@@ -15,10 +14,10 @@
 - 💼 **Back-End Developer** with 2+ years of professional experience in scalable backend systems
 - 🎓 **Computer Science & AI** student at Damietta University (Expected Graduation: July 2026)
 - 🌱 Currently mastering **Microservices Architecture**, **Kubernetes**, and **Event-Driven Systems**
+- 🚀 Expanding expertise in **Go (Golang)** and the **Gin** framework for high-performance APIs
 - 📍 Based in **Damietta, Egypt**
 - 🌐 **Portfolio:** [omarsabry.netlify.app](https://omarsabry.netlify.app/)
 
-<br/>
 <br/>
 
 ## 🛠 **Technical Expertise**
@@ -26,11 +25,13 @@
 ### **Programming Languages**
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ### **Backend Development**
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Gin](https://img.shields.io/badge/Gin-008ECF?style=for-the-badge&logo=go&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socketdotio&logoColor=white)
@@ -75,19 +76,16 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Obsidian](https://img.shields.io/badge/Obsidian-7C3AED?style=for-the-badge&logo=obsidian&logoColor=white)
-
-### **Frontend & Mobile (Basics)**
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
-![Redux Toolkit](https://img.shields.io/badge/Redux_Toolkit-764ABC?style=for-the-badge&logo=redux&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-
 
 <br/>
+
+## 🔭 **Featured Projects**
+* 🎓 **[Udemy Clone Backend](https://github.com/Omar-Sa6ry/Udemy-Clone-Microservices)** - A 10-service microservices platform using NestJS, Docker, K8s, and NATS.
+* 📦 **[BTS Software Ecosystem](https://www.npmjs.com/package/@bts-soft/core)** - Enterprise-grade modular packages for NestJS with Redis locks and Pub/Sub.
+* 💳 **[E-Commerce API](https://github.com/Omar-Sa6ry/e-commerce_nestjs)** - Scalable GraphQL backend with secure Stripe integrations and BullMQ task scheduling.
+
+*(Feel free to check out my pinned repositories below for more code!)*
+
 <br/>
 
 ## 📫 **Connect With Me**
@@ -99,28 +97,24 @@
   [![Portfolio](https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://omarsabry.netlify.app/)
   [![Phone](https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=phone&logoColor=white)](tel:+201091854368)
   [![Whatsapp](https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/201091854368)
-  <!--   [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/omar-sa6ry/)  -->
 
 </div>
 
-<br/>
 <br/>
 
 ## 💼 **GitHub Stats**
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=omar-sa6ry&theme=dracula&hide_border=true" alt="Omar's GitHub Profile Summary" />
 
-
-<br/>
 <br/>
 
-  ## 📞 **Contact Information**
-  <p><strong>Phone:</strong> +201091854368</p>
-  <p><strong>Email:</strong> omarsabry.dev@gmail.com</p>
-  <p><strong>Location:</strong> Damietta, Egypt</p>
-  <p><strong>Graduation:</strong> Expected July 2026</p>
-  
+## 📞 **Contact Information**
+<p><strong>Phone:</strong> +201091854368</p>
+<p><strong>Email:</strong> omarsabry.dev@gmail.com</p>
+<p><strong>Location:</strong> Damietta, Egypt</p>
+
+<div align="left">
   <img src="https://komarev.com/ghpvc/?username=Omar-Sa6ry&color=30D050&style=for-the-badge" alt="Profile Views" />
+</div>
   
-  <p>© Omar Sabry - Back-End Developer</p>
-  
+<p>© Omar Sabry - Back-End Developer</p>
