@@ -85,19 +85,18 @@
 * 📦 **[BTS Software Ecosystem](https://www.npmjs.com/package/@bts-soft/core)** - Enterprise-grade modular packages for NestJS with Redis locks and Pub/Sub.
 * 💳 **[E-Commerce API](https://github.com/Omar-Sa6ry/e-commerce_nestjs)** - Scalable GraphQL backend with secure Stripe integrations and BullMQ task scheduling.
 
-*(Feel free to check out my pinned repositories below for more code!)*
-
 <br/>
+
 
 ## 📫 **Connect With Me**
 
 <div align="center">
-  
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/omarsa6ry/)
-  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:omarsabry.dev@gmail.com)
-  [![Portfolio](https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://omarsabry.netlify.app/)
-  [![Phone](https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=phone&logoColor=white)](tel:+201091854368)
-  [![Whatsapp](https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/201091854368)
+  
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/omarsa6ry/)
+  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:omarsabry.dev@gmail.com)
+  [![Portfolio](https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://omarsabry.netlify.app/)
+  [![Phone](https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=phone&logoColor=white)](tel:+201091854368)
+  [![Whatsapp](https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/201091854368)
 
 </div>
 
@@ -115,7 +114,7 @@
 <p><strong>Location:</strong> Damietta, Egypt</p>
 
 <div align="left">
-  <img src="https://komarev.com/ghpvc/?username=Omar-Sa6ry&color=30D050&style=for-the-badge" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=Omar-Sa6ry&color=30D050&style=for-the-badge" alt="Profile Views" />
 </div>
-  
+  
 <p>© Omar Sabry - Back-End Developer</p>
