@@ -2,9 +2,9 @@
 <h3 align="center">Back-End Developer specializing in Node.js, NestJS & Go</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/omarsa6ry/">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Bold+Code&size=21&duration=1750&pause=1750&color=30D050&center=true&vCenter=true&width=700&lines=Back-End+Developer+with+2%2B+years+experience;Building+scalable+APIs+%26+microservices;NestJS+%7C+Node.js+%7C+Go+%7C+PostgreSQL;Expert+in+REST%2FGraphQL+%26+Real-time+Systems" alt="Typing SVG">
-  </a>
+  <a href="https://www.linkedin.com/in/omarsa6ry/">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Bold+Code&size=21&duration=1750&pause=1750&color=30D050&center=true&vCenter=true&width=700&lines=Back-End+Developer+with+2%2B+years+experience;Building+scalable+APIs+%26+microservices;NestJS+%7C+Node.js+%7C+Go+%7C+PostgreSQL;Expert+in+REST%2FGraphQL%2FgRPC+%26+Real-time+Systems" alt="Typing SVG">
+  </a>
 </p>
 
 <br/>
@@ -14,7 +14,7 @@
 - 💼 **Back-End Developer** with 2+ years of professional experience in scalable backend systems
 - 🎓 **Computer Science & AI** student at Damietta University (Expected Graduation: July 2026)
 - 🌱 Currently mastering **Microservices Architecture**, **Kubernetes**, and **Event-Driven Systems**
-- 🚀 Expanding expertise in **Go (Golang)** and the **Gin** framework for high-performance APIs
+- 🚀 Expanding expertise in **Go (Golang)**, the **Gin** framework, and **gRPC** for high-performance APIs and inter-service communication
 - 📍 Based in **Damietta, Egypt**
 - 🌐 **Portfolio:** [omarsabry.netlify.app](https://omarsabry.netlify.app/)
 
@@ -31,7 +31,7 @@
 ### **Backend Development**
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Gin](https://img.shields.io/badge/Gin-008ECF?style=for-the-badge&logo=go&logoColor=white)
+![Gin](https://img.shields.io/badge/Gin-008ECF?style=for-the-badge&logo=gin&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socketdotio&logoColor=white)
@@ -40,6 +40,7 @@
 ### **API Development**
 ![REST API](https://img.shields.io/badge/REST_API-FF6D00?style=for-the-badge&logo=json&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+![gRPC](https://img.shields.io/badge/gRPC-34657F?style=for-the-badge&logo=grpc&logoColor=white)
 ![DataLoader](https://img.shields.io/badge/DataLoader_(N+1)-0088CC?style=for-the-badge&logo=graphql&logoColor=white)
 ![GraphQL Playground](https://img.shields.io/badge/GraphQL_Playground-1D1D1D?style=for-the-badge&logo=graphql&logoColor=white)
 ![WebSocket](https://img.shields.io/badge/WebSocket-010101?style=for-the-badge&logo=socketdotio&logoColor=white)
@@ -80,7 +81,7 @@
 <br/>
 
 ## 🔭 **Featured Projects**
-* 🎓 **[Udemy Clone Backend](https://github.com/Omar-Sa6ry/Udemy-Clone-Microservices)** - A 10-service microservices platform using NestJS, Docker, K8s, and NATS.
+* 🎓 **[Udemy Clone Backend](https://github.com/Omar-Sa6ry/Udemy-Clone-Microservices)** - A 10-service microservices platform using NestJS, **Go**, **gRPC**, Docker, K8s, and NATS.
 * 📦 **[BTS Software Ecosystem](https://www.npmjs.com/package/@bts-soft/core)** - Enterprise-grade modular packages for NestJS with Redis locks and Pub/Sub.
 * 💳 **[E-Commerce API](https://github.com/Omar-Sa6ry/e-commerce_nestjs)** - Scalable GraphQL backend with secure Stripe integrations and BullMQ task scheduling.
 
@@ -91,12 +92,12 @@
 ## 📫 **Connect With Me**
 
 <div align="center">
-  
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/omarsa6ry/)
-  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:omarsabry.dev@gmail.com)
-  [![Portfolio](https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://omarsabry.netlify.app/)
-  [![Phone](https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=phone&logoColor=white)](tel:+201091854368)
-  [![Whatsapp](https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/201091854368)
+  
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/omarsa6ry/)
+  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:omarsabry.dev@gmail.com)
+  [![Portfolio](https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://omarsabry.netlify.app/)
+  [![Phone](https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=phone&logoColor=white)](tel:+201091854368)
+  [![Whatsapp](https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/201091854368)
 
 </div>
 
@@ -114,7 +115,7 @@
 <p><strong>Location:</strong> Damietta, Egypt</p>
 
 <div align="left">
-  <img src="https://komarev.com/ghpvc/?username=Omar-Sa6ry&color=30D050&style=for-the-badge" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=Omar-Sa6ry&color=30D050&style=for-the-badge" alt="Profile Views" />
 </div>
-  
+  
 <p>© Omar Sabry - Back-End Developer</p>
