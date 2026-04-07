@@ -2,9 +2,9 @@
 <h3 align="center">Back-End Developer specializing in Node.js, NestJS & Go</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/omarsa6ry/">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Bold+Code&size=21&duration=1750&pause=1750&color=30D050&center=true&vCenter=true&width=700&lines=Back-End+Developer+with+2%2B+years+experience;Building+scalable+APIs+%26+microservices;NestJS+%7C+Node.js+%7C+Go+%7C+PostgreSQL;Expert+in+REST%2FGraphQL%2FgRPC+%26+Real-time+Systems" alt="Typing SVG">
-  </a>
+  <a href="https://www.linkedin.com/in/omarsa6ry/">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Bold+Code&size=21&duration=1750&pause=1750&color=A855F7&center=true&vCenter=true&width=700&lines=Back-End+Developer+with+2%2B+years+experience;Building+scalable+APIs+%26+microservices;NestJS+%7C+Node.js+%7C+Go+%7C+PostgreSQL;Expert+in+REST%2FGraphQL%2FgRPC+%26+Real-time+Systems" alt="Typing SVG">
+  </a>
 </p>
 
 <br/>
@@ -81,7 +81,7 @@
 <br/>
 
 ## 🔭 **Featured Projects**
-* 🎓 **[Udemy Clone Backend](https://github.com/Omar-Sa6ry/Udemy-Clone-Microservices)** - A 10-service microservices platform using NestJS, **Go**, **gRPC**, Docker, K8s, and NATS.
+* 🎓 **[Udemy Clone Backend](https://github.com/Omar-Sa6ry/Udemy-Clone-Microservices)** - A 10-service microservices platform using NestJS, Docker, K8s, Ingress Nginx and NATS.
 * 📦 **[BTS Software Ecosystem](https://www.npmjs.com/package/@bts-soft/core)** - Enterprise-grade modular packages for NestJS with Redis locks and Pub/Sub.
 * 💳 **[E-Commerce API](https://github.com/Omar-Sa6ry/e-commerce_nestjs)** - Scalable GraphQL backend with secure Stripe integrations and BullMQ task scheduling.
 
@@ -104,7 +104,23 @@
 
 ## 💼 **GitHub Stats**
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=omar-sa6ry&theme=dracula&hide_border=true" alt="Omar's GitHub Profile Summary" />
+
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=omar-sa6ry&theme=dracula&hide_border=true" alt="Omar's GitHub Streak" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=omar-sa6ry&theme=dracula&hide_border=true&area=true" alt="Omar's GitHub Activity Graph" />
+</div>
+
+<br/>
+
+
 
 <br/>
 
