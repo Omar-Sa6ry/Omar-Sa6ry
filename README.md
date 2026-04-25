@@ -110,6 +110,12 @@
 <br/>
 
 <div align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=omar-sa6ry&theme=dracula&hide_border=true" alt="Omar's GitHub Profile Summary" />
+</div>
+
+<br/>
+
+<div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=omar-sa6ry&theme=dracula&hide_border=true" alt="Omar's GitHub Streak" />
 </div>
 
