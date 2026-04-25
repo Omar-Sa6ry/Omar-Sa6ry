@@ -65,6 +65,14 @@
 ![NATS](https://img.shields.io/badge/NATS_Pub/Sub-1997B5?style=for-the-badge&logo=nats&logoColor=white)
 ![Queue Management](https://img.shields.io/badge/Queue_Management-4B32C3?style=for-the-badge&logo=rabbitmq&logoColor=white)
 
+### **Testing & Quality Assurance**
+![Unit Testing](https://img.shields.io/badge/Unit_Testing-4CAF50?style=for-the-badge&logo=testinglibrary&logoColor=white)
+![E2E Testing](https://img.shields.io/badge/E2E_Testing-FF9800?style=for-the-badge&logo=cypress&logoColor=white)
+![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
+![Supertest](https://img.shields.io/badge/Supertest-000000?style=for-the-badge&logo=npm&logoColor=white)
+![Go Testing](https://img.shields.io/badge/Go_Testing-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Testify](https://img.shields.io/badge/Testify-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+
 ### **Software Engineering Principles**
 ![SOLID](https://img.shields.io/badge/SOLID_Principles-FF6C37?style=for-the-badge&logo=codeforces&logoColor=white)
 ![Design Patterns](https://img.shields.io/badge/Design_Patterns-B366F6?style=for-the-badge&logo=abstract&logoColor=white)
@@ -137,7 +145,7 @@
 <p><strong>Location:</strong> Damietta, Egypt</p>
 
 <div align="left">
-  <img src="https://komarev.com/ghpvc/?username=Omar-Sa6ry&color=30D050&style=for-the-badge" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=Omar-Sa6ry&color=A855F7&style=for-the-badge" alt="Profile Views" />
 </div>
-  
+
 <p>© Omar Sabry - Back-End Developer</p>
