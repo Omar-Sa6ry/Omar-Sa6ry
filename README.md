@@ -81,6 +81,7 @@
 <br/>
 
 ## 🔭 **Featured Projects**
+* 🏛️ **[Real-Time Bidding Microservices](https://github.com/Omar-Sa6ry/realtime-bidding-microservices)** - Enterprise-grade polyglot ecosystem (Go & NestJS) for high-frequency auctions. It leverages Apollo Federation for unified GraphQL access, gRPC for low-latency internal communication, and NATS (pub/sub) for event-driven orchestration. Features AI-powered predictive bidding using Google Gemini, real-time WebSocket notifications, and complex Saga-based transaction management, all deployed via Kubernetes.
 * 🎓 **[Udemy Clone Backend](https://github.com/Omar-Sa6ry/Udemy-Clone-Microservices)** - A 10-service microservices platform using NestJS, Docker, K8s, Ingress Nginx and NATS.
 * 📦 **[BTS Software Ecosystem](https://www.npmjs.com/package/@bts-soft/core)** - Enterprise-grade modular packages for NestJS with Redis locks and Pub/Sub.
 * 💳 **[E-Commerce API](https://github.com/Omar-Sa6ry/e-commerce_nestjs)** - Scalable GraphQL backend with secure Stripe integrations and BullMQ task scheduling.
