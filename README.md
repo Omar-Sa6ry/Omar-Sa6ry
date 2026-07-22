@@ -20,10 +20,10 @@
 
 - 💼 **Backend Engineer** with 2+ years of hands-on experience building scalable APIs and event-driven microservices
 - 🚀 Delivered a production platform serving **10,000+ concurrent users at 99.9% uptime**
-- 📦 Published an open-source NestJS meta-framework **[@bts-soft/core](https://www.npmjs.com/package/@bts-soft/core)** that eliminates common microservices boilerplate
+- 📦 Published **[@bts-soft/core](https://www.npmjs.com/package/@bts-soft/core)** — an open-source NestJS infrastructure ecosystem (5 npm packages) implementing distributed rate limiting (5 algorithms), Redis Facade over 15 domain services, async multi-channel notifications (13 channels via BullMQ), resumable chunked uploads, and WAF-grade SQL injection prevention
 - 🎓 B.Sc. in **Computer Science & Artificial Intelligence**, Damietta University (Graduated July 2026)
 - 🌱 Currently deepening expertise in **Go, gRPC, Kubernetes**, and **event-driven architecture**
-- 📍 Based in **Damietta, Egypt** open to remote / hybrid backend roles
+- 📍 Based in **Damietta, Egypt** — open to remote / hybrid backend roles
 - 🌐 **Portfolio:** [omarsabry.vercel.app](https://omarsabry.vercel.app/)
 
 <br/>
@@ -114,14 +114,24 @@
 * 🎓 **[Tamooh Platform](https://tamooh.cloud/)**
   Multi-tenant digital learning platform (NestJS + GraphQL) serving 10,000+ concurrent users. Features PostgreSQL + Redis caching, automated Arabic PDF certificate generation with QR verification, WhatsApp/Twilio notifications, and BullMQ background processing.
 
-* 🎓 **[Udemy Clone Backend](https://github.com/Omar-Sa6ry/Udemy-Clone-Microservices)**
-  A 10-service microservices platform (NestJS, Docker, Kubernetes, Ingress Nginx, NATS) for resilient inter-service event streaming.
+* 📦 **[@bts-soft/core — Enterprise NestJS Infrastructure Ecosystem](https://www.npmjs.com/package/@bts-soft/core)**
 
-* 📦 **[@bts-soft/core](https://www.npmjs.com/package/@bts-soft/core)**
-  Open-source NestJS meta-framework published on NPM: 5 core modules eliminating microservices boilerplate via Strategy/Command patterns, a multi-channel BullMQ+Redis notification engine, distributed locks/Pub-Sub caching, and global SQL-injection interceptors — compatible with both REST and GraphQL.
+  A production-grade open-source NestJS meta-package published on NPM, consolidating 5 independently versioned sub-packages into a single tested entry point. Every architectural decision maps directly to a real distributed systems problem.
 
-* 💳 **[E-Commerce API](https://github.com/Omar-Sa6ry/e-commerce_nestjs)**
-  High-performance GraphQL backend with Stripe payment orchestration, complex order-state management, and BullMQ-driven async task scheduling.
+  **[@bts-soft/validation](https://www.npmjs.com/package/@bts-soft/validation) — Security & Rate Limiting**
+  Implemented all 5 rate-limiting algorithms from *System Design Interview Vol. 1 Ch. 4* as a pluggable NestJS guard: Token Bucket (burst-tolerant APIs), Leaking Bucket (smooth payment outflow), Fixed Window Counter (login attempt caps), Sliding Window Log (high-security precision), and Sliding Window Counter (scale without log overhead). Each endpoint selects its algorithm via a single decorator. Storage auto-negotiates between distributed Redis and in-memory fallback. Composite validation decorators bundle `class-validator`, `class-transformer`, and WAF-grade SQL injection prevention — negative-lookahead regex scanning for `UNION SELECT`, stacked queries, `xp_cmdshell`, and time-delay attacks — into a single annotation, protocol-agnostic across REST and GraphQL.
+
+  **[@bts-soft/cache](https://www.npmjs.com/package/@bts-soft/cache) — Redis Abstraction (Facade Pattern)**
+  Single `RedisService` injectable over 15 single-responsibility domain services: String, Number, Hash, List, Set, Sorted Set, Geo, HyperLogLog, Bitmap, Pub/Sub, Streams, Distributed Lock, Transaction, Utility, and Operation. Distributed locks use Lua scripts for atomic token verification — a lock can only be released by the exact process that acquired it. Pub/Sub runs on a **dedicated isolated connection** to prevent the SPOF where a subscribed Redis connection cannot send regular commands, which would silently block all locks, idempotency checks, and cache reads simultaneously. Redis Streams (`xAdd`, `xReadGroup`, `xAck`) enable reliable event sourcing with consumer groups and at-least-once delivery guarantees.
+
+  **[@bts-soft/notifications](https://www.npmjs.com/package/@bts-soft/notifications) — Async Multi-Channel Engine**
+  Implements the notification system architecture: a synchronous pre-flight pipeline (expiry check → idempotency deduplication → user opt-out → per-channel rate limit) followed by immediate BullMQ enqueue so the API never blocks on external provider latency. Workers dispatch asynchronously across **13 channels** — Email (SMTP/SES/SendGrid), SMS (Twilio/Vonage), WhatsApp, Firebase FCM, Telegram, Discord, Teams, Slack, Messenger, OneSignal, Web Push (VAPID), In-App (Pusher), Webhook — with exponential backoff retry (5 s → 10 s → 20 s) on 5xx provider errors only. Client errors (4xx) are never retried.
+
+  **[@bts-soft/upload](https://www.npmjs.com/package/@bts-soft/upload) — Resumable Chunked Uploads (Strategy + Observer + Command)**
+  Supports single-file and large-file chunked uploads with full resume capability. On the final chunk, BullMQ merges parts asynchronously so the API returns immediately — the same pattern as YouTube's upload design. Real-time SSE streams merge progress back to the client. Storage backend (Local Disk / Cloudinary CDN) is swappable via a single environment variable with zero code changes (Strategy pattern). Upload lifecycle events (success, failure, deletion) broadcast to registered observers for auditing and cleanup without coupling to the core service.
+
+  **[@bts-soft/common](https://www.npmjs.com/package/@bts-soft/common) — Standard Library**
+  `IdGenerator` defaults to **ULID** (48-bit timestamp + 80-bit randomness) to maintain sequential B-Tree index inserts and eliminate page fragmentation at scale — with runtime-switchable strategies: UUID v4, Twitter Snowflake (64-bit: ms timestamp + worker ID + sequence counter for distributed nodes), and CUID2. Global interceptor chain (`ClassSerializer → SqlInjection → GeneralResponse`) activates with a single `setupInterceptors()` call. `IdempotencyInterceptor` deduplicates critical mutations via Redis `X-Idempotency-Key`. ORM adapters for TypeORM, Mongoose, Sequelize, and Prisma. Apollo GraphQL module with WebSocket, Federation, and CSRF prevention built in.
 
 <br/>
 
@@ -151,11 +161,9 @@
 </div> 
 
  -->
- 
+
 <br/>
 
-
- 
 ## 📫 Connect With Me
 
 <div align="center">
