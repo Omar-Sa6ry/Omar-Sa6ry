@@ -37,14 +37,11 @@
   <a href="mailto:omarsabry.dev@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" height="34" alt="Email" /></a>
   <a href="https://wa.me/201091854368"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" height="34" alt="WhatsApp" /></a>
 </p>
+</div>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt="Divider" />
 </p>
-
-</div>
-
----
 
 ## ⚡ Executive Summary
 
@@ -56,7 +53,9 @@ Software Engineer with 2+ years of production experience architecting high-throu
 - **Education:** B.Sc. in Computer Science & Artificial Intelligence, Damietta University (Class of 2025).
 - **Target Roles:** Open to Remote & Hybrid Global Software Engineering roles.
 
----
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt="Divider" />
+</p>
 
 ## 🛠️ Technical Stack & Competencies
 
@@ -192,7 +191,7 @@ Software Engineer with 2+ years of production experience architecting high-throu
   <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
 </p>
 
----
+ <p align="center">   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt="Divider" /> </p>
 
 ## 🏛️ Featured Engineering Projects
 
@@ -229,7 +228,6 @@ _Enterprise 10-Microservice Polyglot Distributed Platform (Go + NestJS)_
 
 <br/>
 
-
 <br/>
 
 ### [Tamooh Platform](https://tamooh.cloud/)
@@ -241,9 +239,9 @@ _High-Performance EdTech Ecosystem Serving 10,000+ Concurrent Users_
 - **Automation:** Automated Arabic PDF certificate generation with custom QR verification and asynchronous WhatsApp notification queues.
 - `NestJS` &middot; `GraphQL` &middot; `PostgreSQL` &middot; `Redis` &middot; `Docker` &middot; `BullMQ` &middot; `TypeORM`
 
----
+ <p align="center">   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt="Divider" /> </p>
 
-## 📈 Engineering Activity & GitHub Metrics
+## 📈 Engineering Activity
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Omar-Sa6ry&theme=tokyonight&hide_border=true&stroke=38bdf8&ring=38bdf8&fire=f59e0b&currStreakNum=38bdf8&sideNums=38bdf8&dates=94a3b8&background=030407&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
@@ -255,7 +253,7 @@ _High-Performance EdTech Ecosystem Serving 10,000+ Concurrent Users_
   </a>
 </p>
 
----
+ <p align="center">   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt="Divider" /> </p>
 
 <div align="center">
   <p align="center"><sub>© Omar Sabry — Software Engineer</sub></p>
