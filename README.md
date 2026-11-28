@@ -241,19 +241,13 @@ _High-Performance EdTech Ecosystem Serving 10,000+ Concurrent Users_
 
  <p align="center">   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt="Divider" /> </p>
 
-## 📈 Engineering Activity
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Omar-Sa6ry&theme=tokyonight&hide_border=true&stroke=38bdf8&ring=38bdf8&fire=f59e0b&currStreakNum=38bdf8&sideNums=38bdf8&dates=94a3b8&background=030407&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
-</p>
 
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=go,nestjs,ts,nodejs,postgres,mongodb,redis,docker,kafka,rabbitmq,graphql,kubernetes&theme=dark&perline=6" alt="Core Tech Stack" />
   </a>
 </p>
-
- <p align="center">   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt="Divider" /> </p>
 
 <div align="center">
   <p align="center"><sub>© Omar Sabry — Software Engineer</sub></p>
